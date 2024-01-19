@@ -22,7 +22,7 @@ nbRawHtml: """
 			});
 		}
 
-    window.onLoad = setUpTangle;
+    window.onload = setUpTangle;
 </script>
 <p id="example">
 		When you eat <span data-var="cookies" class="TKAdjustableNumber" data-min="2" data-max="100" style="pointer-events: auto;"><span>4</span><div class="TKAdjustableNumberHelp" style="display: none;">drag</div> cookies</span>, you
