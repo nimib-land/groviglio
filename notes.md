@@ -1,0 +1,5 @@
+- work on basic template: using `rawHtml` make it available in nimib
+- need to add at least some TangleKit (does not seem to be optional)
+- replace onload body attrbiute with `window.onLoad` does not seem to work
+- example works if I call `setUpTangle()` from console
+- it is a bit broken, after number it starts a new paragraph (influence of water.css?)
